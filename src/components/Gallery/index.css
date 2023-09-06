@@ -1,0 +1,21 @@
+/* Write your code here. */
+.app-container {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.gallery-container {
+  width: 80%;
+}
+
+.display-image {
+  width: 100%;
+}
+
+.thumbnails-container {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  padding-left: 0px;
+}
